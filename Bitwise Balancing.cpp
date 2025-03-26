@@ -57,7 +57,7 @@ int main(){
 /\_/\
  ^-^    Paca, paca, paca, paca en mi caballo
  >/<
-
+ 
 https://codeforces.com/contest/2020/problem/C
 
 */
