@@ -20,7 +20,7 @@ int main() {
     int t;
     cin >> t;
     while(t--) {
-        // aqui va el despapaye (here you code in English)
+        // aqui va el despapaye (write your code here)
     }
 
     return 0;
